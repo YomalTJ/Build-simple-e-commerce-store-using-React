@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "name": "Wireless Bluetooth Headphones",
+      "description": "High-quality wireless Bluetooth headphones with noise cancellation and long battery life.",
+      "category": "Electronics",
+      "price": "78.95",
+      "imageUrl": "https://example.com/images/headphones.jpg",
+      "stock": "50",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Smart LED TV",
+      "description": "55-inch 4K Ultra HD Smart LED TV with HDR and built-in streaming apps.",
+      "category": "Electronics",
+      "price": 499.99,
+      "imageUrl": "https://example.com/images/tv.jpg",
+      "stock": 10
+    },
+    {
+      "id": "3",
+      "name": "Espresso Coffee Maker",
+      "description": "Automatic espresso coffee maker with a built-in grinder and milk frother.",
+      "category": "Home Appliances",
+      "price": 149.99,
+      "imageUrl": "https://example.com/images/coffee_maker.jpg",
+      "stock": 30
+    },
+    {
+      "id": "4",
+      "name": "Yoga Mat",
+      "description": "Non-slip yoga mat with carrying strap, ideal for yoga, Pilates, and workouts.",
+      "category": "Fitness",
+      "price": 25.99,
+      "imageUrl": "https://example.com/images/yoga_mat.jpg",
+      "stock": 50
+    },
+    {
+      "id": "5",
+      "name": "Running Shoes",
+      "description": "Lightweight running shoes with breathable mesh upper and cushioned sole.",
+      "category": "Footwear",
+      "price": 79.99,
+      "imageUrl": "https://example.com/images/running_shoes.jpg",
+      "stock": 40
+    },
+    {
+      "id": "6",
+      "name": "Stainless Steel Cookware Set",
+      "description": "10-piece stainless steel cookware set with non-stick coating and heat-resistant handles.",
+      "category": "Kitchen",
+      "price": 199.99,
+      "imageUrl": "https://example.com/images/cookware_set.jpg",
+      "stock": 15
+    },
+    {
+      "id": "7",
+      "name": "Gaming Chair",
+      "description": "Ergonomic gaming chair with adjustable height, lumbar support, and reclining backrest.",
+      "category": "Furniture",
+      "price": 129.99,
+      "imageUrl": "https://example.com/images/gaming_chair.jpg",
+      "stock": 20
+    },
+    {
+      "id": "8",
+      "name": "Electric Toothbrush",
+      "description": "Rechargeable electric toothbrush with multiple brushing modes and a smart timer.",
+      "category": "Personal Care",
+      "price": 39.99,
+      "imageUrl": "https://example.com/images/electric_toothbrush.jpg",
+      "stock": 60
+    },
+    {
+      "id": "9",
+      "name": "Instant Pot",
+      "description": "6-quart multi-use programmable pressure cooker, slow cooker, rice cooker, steamer, and more.",
+      "category": "Kitchen",
+      "price": 89.99,
+      "imageUrl": "https://example.com/images/instant_pot.jpg",
+      "stock": 35
+    }
+  ]
+}
